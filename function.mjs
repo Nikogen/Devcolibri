@@ -1,5 +1,5 @@
-function sayChanged() {
+function say() {
   console.log('Привет');
 }
 
-export default sayChanged;
+export { say };
