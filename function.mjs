@@ -3,3 +3,5 @@ function sayChanged() {
 }
 
 export { sayChanged };
+
+console.log('Привет удаленный репозиторий');
